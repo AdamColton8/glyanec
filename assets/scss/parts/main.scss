@@ -17,15 +17,12 @@
     margin-right: 35px;
   }
 }
-
 .position-box {
   @include media-breakpoint-between(xs, sm) {
     display: flex;
     justify-content: center;
   }
-
 }
-
 .main-list-text {
   line-height: normal;
   font-size: 16px;
